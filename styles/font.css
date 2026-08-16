@@ -1,0 +1,25 @@
+@font-face {
+	font-family: jetbrains-mono;
+	src: url("/fonts/JetBrainsMono-Regular.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: jetbrains-mono;
+	src: url("/fonts/JetBrainsMono-Bold.ttf");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: jetbrains-mono;
+	src: url("/fonts/JetBrainsMono-MediumItalic.ttf");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: jetbrains-mono;
+	src: url("/fonts/JetBrainsMono-BoldItalic.ttf");
+	font-style: italic;
+	font-weight: bold;
+}

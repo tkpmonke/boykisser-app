@@ -1,0 +1,29 @@
+* {
+	font-family: jetbrains-mono;
+}
+
+body {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+
+	align-items: center;
+
+	background-color: #1e1e2e;
+	color: #cdd6f4;
+}
+
+button {
+	border: 0px 0px;
+	border-radius: 0px;
+	border-width: 0px;
+	background-color: #f38ba8;
+}
+
+video {
+	height: 75vh;
+}
+
+img {
+	height: 75vh;
+}
